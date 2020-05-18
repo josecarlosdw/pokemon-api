@@ -2,7 +2,7 @@ Projeto criado com React
 ##
 Aplicação que exibe cards Pokémon (uso API Pokémon)
 ##
-visualizar online: https://fonyo.csb.app/
+Visualizar online: https://fonyo.csb.app/
 ##
 Para rodar a aplicação:
 - Clonar aplicação
