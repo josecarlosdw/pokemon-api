@@ -2,7 +2,7 @@ Projeto criado com React
 ##
 Aplicação que exibe cards Pokémon com uso de sua API
 ##
-Para rodar aplicação:
+Para rodar a aplicação:
 - Clonar aplicação
 - instalar node modules
-- rodar aplicação com npm start
+- rodar aplicação: npm start
