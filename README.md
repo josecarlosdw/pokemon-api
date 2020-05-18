@@ -1,6 +1,6 @@
 Projeto criado com React
 ##
-Aplicação que exibe cards Pokémon com uso de sua API
+Aplicação que exibe cards Pokémon (uso API Pokémon)
 ##
 Para rodar a aplicação:
 - Clonar aplicação
